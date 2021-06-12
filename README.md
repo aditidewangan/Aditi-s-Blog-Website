@@ -18,7 +18,7 @@ See the section about running tests for more information.
  ## Setup Guidelines
 Clone the repository -
 ```
-git clone https://github.com/aditidewangan/Visartedworld.git
+git clone hhttps://github.com/aditidewangan/Aditi-s-Blog-Website.git
 ```
 
 ### Backend
@@ -64,7 +64,7 @@ _NOTE: To run the Frontend side of the application it recommended to run the bac
 
 ## Start Frontend & Backend simultaneously
 
- 1. Navigate to the root folder i.e.  Visartedworld.git
+ 1. Navigate to the root folder i.e. Aditi-s-Blog-Website.git.git
 
  2. Install the dependencies by running
 
